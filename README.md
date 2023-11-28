@@ -21,4 +21,4 @@ You are done, now start the app
 
 ## Start the app
 
-To start the app run the `php artisan serve` command
+To start the app run the `cd` into `/app` and run the `php artisan serve` command
